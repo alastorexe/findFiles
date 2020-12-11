@@ -1,0 +1,16 @@
+/home/modzi/findFiles/findFiles/findFiles/bin/Debug/net5.0/findFiles
+/home/modzi/findFiles/findFiles/findFiles/bin/Debug/net5.0/findFiles.deps.json
+/home/modzi/findFiles/findFiles/findFiles/bin/Debug/net5.0/findFiles.runtimeconfig.json
+/home/modzi/findFiles/findFiles/findFiles/bin/Debug/net5.0/findFiles.runtimeconfig.dev.json
+/home/modzi/findFiles/findFiles/findFiles/bin/Debug/net5.0/findFiles.dll
+/home/modzi/findFiles/findFiles/findFiles/bin/Debug/net5.0/ref/findFiles.dll
+/home/modzi/findFiles/findFiles/findFiles/bin/Debug/net5.0/findFiles.pdb
+/home/modzi/findFiles/findFiles/findFiles/obj/Debug/net5.0/findFiles.csprojAssemblyReference.cache
+/home/modzi/findFiles/findFiles/findFiles/obj/Debug/net5.0/findFiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/modzi/findFiles/findFiles/findFiles/obj/Debug/net5.0/findFiles.AssemblyInfoInputs.cache
+/home/modzi/findFiles/findFiles/findFiles/obj/Debug/net5.0/findFiles.AssemblyInfo.cs
+/home/modzi/findFiles/findFiles/findFiles/obj/Debug/net5.0/findFiles.csproj.CoreCompileInputs.cache
+/home/modzi/findFiles/findFiles/findFiles/obj/Debug/net5.0/findFiles.dll
+/home/modzi/findFiles/findFiles/findFiles/obj/Debug/net5.0/ref/findFiles.dll
+/home/modzi/findFiles/findFiles/findFiles/obj/Debug/net5.0/findFiles.pdb
+/home/modzi/findFiles/findFiles/findFiles/obj/Debug/net5.0/findFiles.genruntimeconfig.cache

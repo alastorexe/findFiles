@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/modzi/.dotnet/store/|arch|/|tfm|",
+      "/home/modzi/.nuget/packages"
+    ]
+  }
+}
